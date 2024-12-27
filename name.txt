@@ -1,1 +1,2 @@
 hello, this is a paragraph written using vim inside name.txt for commiting it to the github repo.
+this is another paragraph added to this file.
